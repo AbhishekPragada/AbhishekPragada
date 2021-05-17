@@ -16,7 +16,7 @@
 
 Hi, I'm Abhishek Pragada, a passionate self-taught Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="center" alt="GIF" src= "https://github.com/AbhishekPragada/AbhishekPragada/blob/c836da5109a6d9f982253a31e54a11bcc937f9f6/code.gif" width="500" height="320" />
+  <p align="center"><img alt="GIF" src= "https://github.com/AbhishekPragada/AbhishekPragada/blob/c836da5109a6d9f982253a31e54a11bcc937f9f6/code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhishekpragada](https://twitter.com/APragada);

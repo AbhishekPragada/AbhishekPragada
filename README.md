@@ -20,7 +20,7 @@ Hi, I'm Abhishek Pragada, a passionate self-taught Full Stack web developer from
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhishekpragada](https://twitter.com/APragada);
-- 📝 [Resume](https://drive.google.com/file/d/1ZxIdQPznUhzVR8wV9PnJkYUA03ry4Gh8/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/19GnAO2fzfCH8Y49niSnZ-0Fd9QVhGEc1/view?usp=sharing)
 
 **Languages and Tools:**  
 

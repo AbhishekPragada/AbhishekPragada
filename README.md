@@ -16,13 +16,14 @@
 
 Hi, I'm Abhishek Pragada, a passionate self-taught Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <p align="center"><img alt="GIF" src= "https://github.com/AbhishekPragada/AbhishekPragada/blob/c836da5109a6d9f982253a31e54a11bcc937f9f6/code.gif" width="500" height="320" />
-  
+<img align="right" alt="GIF" src= "https://github.com/AbhishekPragada/AbhishekPragada/blob/c836da5109a6d9f982253a31e54a11bcc937f9f6/code.gif" width="500" height="320" />
+
+<br /><br />
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhishekpragada](https://twitter.com/APragada);
 - 📝 [Resume](https://drive.google.com/file/d/19GnAO2fzfCH8Y49niSnZ-0Fd9QVhGEc1/view?usp=sharing)
-
-**Languages and Tools:**  
+<br /><br /><br />
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -35,7 +36,7 @@ Hi, I'm Abhishek Pragada, a passionate self-taught Full Stack web developer from
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg"></code>
 
-
+<br /><br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPragada&show_icons=true&theme=gotham" alt="AbhishekPragada" />
 
 

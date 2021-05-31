@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/abhishek_130101/">
-  <img align="left" alt="Abhishek's Insta" width="22px" src="https://github.com/Automattic/social-logos/blob/e38c749c5e9dab76284a3354e1442dd8519f1b36/svg-min/instagram.svg" />
+  <img align="left" alt="Abhishek's Insta" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
 </a>
 
